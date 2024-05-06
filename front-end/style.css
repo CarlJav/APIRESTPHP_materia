@@ -1,0 +1,27 @@
+nav {
+    background-color: #333; 
+    padding: 20px;
+    margin-bottom: 3em;
+}
+
+nav a {
+    text-decoration: none;
+    color: white; 
+    margin-right: 20px; 
+}
+
+nav a:hover {
+    color: lightgray;
+}
+.contendor{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#valueIdMateria {  
+    display: none;
+  }
+body.cuerpo{
+    background-color: black;
+}
